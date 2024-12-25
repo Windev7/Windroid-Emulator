@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/github/downloads/Android-PowerUser/Windroid_11/total.svg?label=Windroid%2011%20Downloads)
 
-## Goals of Windroid 11
+## Goals of Windroid Emulator
 
 ##### No Root access necessary
 ##### Windows and Linux Applications work
@@ -22,7 +22,7 @@ Min. 17 GB storage short term and installed 13 GB.
 
 ARM Processor 64-bit (probably max. 6 year old low budget device)
 
-Android 7+ (more reports necessary)
+Android 7.0 "Nougat" or over (more reports necessary)
 
 ## Easy install
 
